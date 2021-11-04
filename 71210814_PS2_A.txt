@@ -1,0 +1,1 @@
+2. Cangkir yang akan terisi dengan kopi adalah cangkir nomor 5, dikarenakan pipa yang mengalirkan kopi ke cangkir nomor 4,9,dan 7 tertutup sehingga kopi tidak dapat mengalir.
